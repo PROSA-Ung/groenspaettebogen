@@ -2,5 +2,5 @@
 
 * [Introduktion](README.md)
 * [PROSAs opbygning](opbygning.md)
-* [Forkortelser](forkortelser.md/Forkortelser)
+* [Ordbog](ordbog.md)
 
