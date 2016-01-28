@@ -5,7 +5,7 @@
 * [Udvalg](udvalg.md)
 * [Ansatte](ansatte.md)
 * [Valgte](valgte.md)
-* Lokaler
+* [Lokaler](lokaler.md)
 * Faste arrangementer
 * [Ordbog](ordbog.md)
 
