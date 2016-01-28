@@ -7,4 +7,5 @@
 * Ansatte
 * Valgte
 * Lokaler
+* Faste arrangementer
 
