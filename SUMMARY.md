@@ -6,4 +6,5 @@
 * Udvalg
 * Ansatte
 * Valgte
+* Lokaler
 
