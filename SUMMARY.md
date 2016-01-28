@@ -2,7 +2,7 @@
 
 * [Introduktion](README.md)
 * [PROSAs opbygning](opbygning.md)
-* Udvalg
+* [Udvalg](udvalg.md)
 * Ansatte
 * Valgte
 * Lokaler
