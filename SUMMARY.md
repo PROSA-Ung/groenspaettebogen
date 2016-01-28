@@ -6,6 +6,6 @@
 * [Ansatte](ansatte.md)
 * [Valgte](valgte.md)
 * [Lokaler](lokaler.md)
-* Faste arrangementer
+* [Faste arrangementer](faste_arrangementer.md)
 * [Ordbog](ordbog.md)
 
