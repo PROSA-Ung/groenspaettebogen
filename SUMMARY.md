@@ -2,10 +2,10 @@
 
 * [Introduktion](README.md)
 * [PROSAs opbygning](opbygning.md)
-* [Ordbog](ordbog.md)
 * Udvalg
 * Ansatte
 * Valgte
 * Lokaler
+* [Ordbog](ordbog.md)
 * Faste arrangementer
 
