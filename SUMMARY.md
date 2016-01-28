@@ -3,7 +3,7 @@
 * [Introduktion](README.md)
 * [PROSAs opbygning](opbygning.md)
 * [Udvalg](udvalg.md)
-* Ansatte
+* [Ansatte](ansatte.md)
 * Valgte
 * Lokaler
 * Faste arrangementer
