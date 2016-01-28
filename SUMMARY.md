@@ -6,6 +6,6 @@
 * Ansatte
 * Valgte
 * Lokaler
-* [Ordbog](ordbog.md)
 * Faste arrangementer
+* [Ordbog](ordbog.md)
 
