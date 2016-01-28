@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduktion](README.md)
-* [PROSAs opbygning](opbygning.md)
+* [Struktur](opbygning.md)
 * [Udvalg](udvalg.md)
 * [Ansatte](ansatte.md)
 * [Valgte](valgte.md)
