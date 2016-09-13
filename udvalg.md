@@ -8,6 +8,12 @@ Formål: En gennemgang af udvalg
 
 ## It og Samfund (ITS)
 
+Det er en del af PROSAs grundlag at vi ønsker at være med til at påvirke, hvordan IT bruges i samfundet. Vi ved mere om IT end de fleste, og kan derfor ofte se sammenhænge, der er sværere for ikke-IT-kyndige at se.
+
+IT og Samfund er PROSAs udvalg, der kikker på, hvordan IT påvirker samfundet. Det er her vi behandler samfundsaspekterne ved emner som: Overvågning, privatliv, Digitale rettigheder, den offentlige digitalisering, softwarepatenter, Open Source, DRM, big data og machine learning.
+
+Vi mødes ca. 8 aftener om året, men har derudover nogle arbejdsmøder.
+
 ## Ungdomsudvalget (U35)
 
 ## Arbejdsmarkedsudvalget
