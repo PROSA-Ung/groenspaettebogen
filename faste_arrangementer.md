@@ -14,8 +14,7 @@ Formål: En slags "skelet" for et overordnet årshjul for PROSA \(tænk 1. maj, 
 9. September
 10. Oktober
 11. November
-    1. Delegeret forsamling \(lige årstal, fx. 2016\)
-    2. Midvejsmøde \(**u**lige årstal, fx. 2017\)
+    1. Delegeret forsamling \(lige årstal, fx. 2016\) _eller_ Midvejsmøde \(**u**lige årstal, fx. 2017\)
 12. December
 
 
