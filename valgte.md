@@ -6,7 +6,7 @@ Formål: Forklare hvilke valgte positioner der er i PROSA, både betalte og ubet
 * * 1 Formand
   * 1 Næstformand
 
-  * 5 Forbundssekretærer \(hævet fra 3 til 5 ved Delegeretforsamling 2016\)
+  * 5 Forbundssekretærer \(hævet fra 3 til 5 ved DF 2016\)
 * Ulønnede positioner
   * \(...\)
 
