@@ -8,4 +8,5 @@
 * [Lokaler](lokaler.md)
 * [Faste arrangementer](faste_arrangementer.md)
 * [Ordbog](ordbog.md)
+* [Lokalafdelinger](lokalafdelinger.md)
 
