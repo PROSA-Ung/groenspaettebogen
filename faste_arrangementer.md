@@ -16,7 +16,7 @@ Formål: En slags "skelet" for et overordnet årshjul for PROSA \(tænk 1. maj, 
 11. November
     1. DF \(lige årstal, fx. 2016\) _eller_ Midvejsmøde \(**u**lige årstal, fx. 2017\)
 12. December
-    1. HB nedsætte udvalg på første møde
+    1. Udvalg nedsættes på første kommende HB møde
 
 
 
