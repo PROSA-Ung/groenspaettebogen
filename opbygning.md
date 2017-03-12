@@ -1,3 +1,4 @@
 # Struktur
 
-Formål: Hvordan er PROSA struktureret? Organisationsdiagram og den slags
+Formål: Hvordan er PROSA struktureret? Organisations-diagram og den slags
+
