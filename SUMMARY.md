@@ -9,4 +9,5 @@
 * [Lokaler](lokaler.md)
 * [Faste arrangementer](faste_arrangementer.md)
 * [Ordbog](ordbog.md)
+* [Delegeretforsamling](delegeretforsamling.md)
 
