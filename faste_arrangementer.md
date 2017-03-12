@@ -7,7 +7,7 @@ Formål: En slags "skelet" for et overordnet årshjul for PROSA \(tænk 1. maj, 
 3. Marts
 4. April
 5. Maj
-   1. 1. maj
+   1. 1 maj
 6. Juni
 7. Juli
 8. August
