@@ -1,11 +1,13 @@
 # PROSAs lokalafdelinger
 
-* Prosa Øst - Øst for Storebælt
-* Prosa Vest - Vest for Storebælt
-* Prosa CSC - Ansatte hos IT-leverandøren CSC
-* Prosa SAS - Ansatte hos flyselskabet SAS
-* Prosa STUD - Studerende
-* Prosa Offentlig - Offentlige ansatte
+| Name | Members |
+| :--- | :--- |
+| PROSA CSC | Ansatte i CSC |
+| PROSA SAS | Ansatte i SAS |
+| PROSA Offentlig | Ansatte i det offentlige |
+| PROSA STUD | It-studerende |
+| PROSA VEST | Privatansatte vest for Storebælt |
+| PROSA ØST | Privatansatte øst for Storebælt |
 
 
 
